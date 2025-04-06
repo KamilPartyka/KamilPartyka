@@ -16,4 +16,4 @@ Beyond development, I actively contribute to company culture and team growth. Iâ
 
 ## Skills & Technologies
 
-ts,js,react,gatsby,nextjs,styledcomponents,tailwind,jest
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,gatsby,nextjs,styledcomponents,tailwind,jest&perline=8)](https://skillicons.dev)
